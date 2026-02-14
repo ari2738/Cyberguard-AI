@@ -61,3 +61,4 @@ Risk score is generated
 User receives alert and security recommendation
 
 A sample prototype done with bolt AI https://ai-driven-cybersecur-dxa0.bolt.host/
+A ppt presented by our team hackmates https://1drv.ms/p/c/c704b80bd022e444/IQBO5Q37uO_VT4fOWhuL41d3Ab_Y4ksPKgUJohUxV6OFTjc?e=3BA2qn
