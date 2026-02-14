@@ -8,45 +8,56 @@ CyberGuard AI is an AI-powered cybersecurity assistant that detects phishing att
 🔹 Key Features
 
 ✔ Phishing email detection
+
 ✔ Malicious link analysis
+
 ✔ Real-time threat alerts
+
 ✔ Spam and scam classification
+
 ✔ URL reputation checking
+
 ✔ Suspicious attachment detection
+
 ✔ User risk scoring system
+
 ✔ Security report generation
 
 🔹 Improved System Architecture
 
 1️⃣ User Interface
-Web or mobile dashboard
-Threat alert notifications
-Email/link scanning interface
+Web or mobile dashboard,
+Threat alert notifications,
+Email/link scanning interface,
 Security status panel
 
 2️⃣ AI Detection Engine
-NLP for email content analysis
-Machine learning classification models
-URL pattern recognition
+NLP for email content analysis,
+Machine learning classification models,
+URL pattern recognition,
 Anomaly detection algorithms
 
 3️⃣ Threat Analysis Module
-Real-time scanning
-Blacklist & database verification
+Real-time scanning,
+Blacklist & database verification,
 Risk scoring mechanism
 
 4️⃣ Backend
-User authentication
-Threat database storage
-Encrypted log management
+User authentication,
+Threat database storage,
+Encrypted log management,
 Cloud-based monitoring system
 
 🔹 Simple Working Flow
 
 User submits email or link
+
 AI analyzes content and metadata
+
 System checks threat databases
+
 Risk score is generated
+
 User receives alert and security recommendation
 
 A sample prototype done with bolt AI https://ai-driven-cybersecur-dxa0.bolt.host/
